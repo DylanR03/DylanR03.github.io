@@ -52,11 +52,11 @@ switch(answer) {
 var answer = prompt("On your travels you come across a field rich with berry bushes of all kinds, it is a good time to stock up on food as there is also plentiful hunting will you Pick berries, Go hunting or Rest first? (pick one: Pick berries, Go hunting, Rest)")
 switch(answer) {
   case "Pick berries":
-    alert("After picking berries you continue on your travels and noticing that you were followed by the frogs you go to the nearest town for a few days.")
+    alert("You ended up picking the wrong berries and you soon died of berry poisoning.")
     break;  
         
   case "pick berries":
-    alert("After picking berries you continue on your travels and noticing that you were followed by the frogs you go to the nearest town for a few days.")
+    alert("You ended up picking the wrong berries and you soon died of berry poisoning.")
     break;  
     
   case "Go hunting":
