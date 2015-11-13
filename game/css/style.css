@@ -1,0 +1,39 @@
+
+  
+
+h1{
+  color:#ff0066;
+  font-size:70px; 
+}
+marquee{
+  color:#00ff00;
+  font-size: 50px;
+}
+h2{
+  color:#ff0066;
+  font-size:90px;
+}
+body{
+background-image:url(http://bodinesbunnies.weebly.com/uploads/1/4/5/3/14538294/6997577_orig.jpg);
+}
+
+button{
+  background-color:#ff0066;
+  border: dashed #00ff00;
+  font-size: 80px;
+  color: #00ff00;
+}
+button1{
+  background-color: #00ff00;
+  border: dashed #ff0066;
+  font-size: 80px;
+  color: #ff0066;
+}
+h3{
+  color: #ff0066;
+  font-size: 50px;
+}
+p{
+  font-size: 60px;
+  color: #00cc00;
+}
